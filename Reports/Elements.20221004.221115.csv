@@ -1,0 +1,22 @@
+SessionID,Category,Grammar_Element,HighLevelObject,FileType,Total_Object_Count,Count_Converted_LOC,Count_Not_Converted_LOC,Count_Conversion_Errors,Count_Parsing_Errors
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Definition Statements,CHECKSUM,CREATE TABLE,SQL,1,1,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Procedure statements,CREATE / REPLACE PROCEDURE,CREATE / REPLACE PROCEDURE,SQL,2,22,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Definition Statements,CREATE / REPLACE VIEW,CREATE / REPLACE VIEW,SQL,1,4,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Table Statements,CREATE TABLE,CREATE TABLE,SQL,1,9,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Type,DATE,CREATE TABLE,SQL,1,0,1,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Type,DATE,CREATE / REPLACE PROCEDURE,SQL,2,0,2,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,"SELECT statement syntax, options, clauses, modifiers",FROM,CREATE / REPLACE VIEW,SQL,1,1,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Manipulation Language Statement,INSERT,CREATE / REPLACE PROCEDURE,SQL,1,2,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Manipulation Language Statement,INSERT,INSERT,SQL,4,4,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Type,INTEGER,CREATE TABLE,SQL,2,2,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Type,INTEGER,CREATE / REPLACE PROCEDURE,SQL,3,3,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Definition Statements,MERGEBLOCKRATIO,CREATE TABLE,SQL,1,1,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Definition Statements,NO AFTER JOURNAL,CREATE TABLE,SQL,1,1,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Definition Statements,NO BEFORE JOURNAL,CREATE TABLE,SQL,1,1,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Definition Statements,NO FALLBACK,CREATE TABLE,SQL,1,1,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Definition Statements,NOT NULL,CREATE TABLE,SQL,4,4,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Definition Statements,PRIMARY INDEX,CREATE TABLE,SQL,1,0,1,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,"SELECT statement syntax, options, clauses, modifiers",SELECT,CREATE / REPLACE VIEW,SQL,1,2,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Uncategorized,SqlGeneratedAsIdentity,CREATE TABLE,SQL,1,1,0,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Uncategorized,TdReplaceViewStart,CREATE / REPLACE VIEW,SQL,1,0,1,0,0
+a635bf4c-d29a-4e58-925b-1fa487d3c750,Data Manipulation Language Statements,UPDATE,CREATE / REPLACE PROCEDURE,SQL,1,3,0,0,0
